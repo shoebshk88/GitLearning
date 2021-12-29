@@ -3,3 +3,5 @@ I wasnt this to go into commit 2
 
 Change by me
 Adding new line to the code
+
+Another new change
