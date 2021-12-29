@@ -1,0 +1,5 @@
+This is version 1 of my project
+I wasnt this to go into commit 2
+
+Change by me
+Adding new line to the code
